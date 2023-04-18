@@ -25,7 +25,7 @@
 defined('MOODLE_INTERNAL') || die();
 
 $plugin->component = 'local_buen_data';
-$plugin->version  = 2023041005;
+$plugin->version  = 2023041700;
 $plugin->requires = 2021051700;
 $plugin->release  = '1.0.0';
 $plugin->maturity = MATURITY_ALPHA;
